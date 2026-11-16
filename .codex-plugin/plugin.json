@@ -1,0 +1,9 @@
+{
+  "name": "bench-petstore",
+  "version": "1.0.0",
+  "description": "Integrate and consume the APIMatic-generated Swagger Petstore - OpenAPI 3.1.0 SDK — bundled skills for C#/.NET.",
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Bench Petstore"
+  }
+}

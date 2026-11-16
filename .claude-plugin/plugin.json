@@ -1,0 +1,13 @@
+{
+  "name": "bench-petstore",
+  "displayName": "Bench Petstore",
+  "version": "1.0.0",
+  "description": "Integrate and consume the APIMatic-generated Swagger Petstore - OpenAPI 3.1.0 SDK — bundled skills for C#/.NET.",
+  "license": "MIT",
+  "skills": [
+    "./skills/dotnet"
+  ],
+  "agents": [
+    "./scoped/agents/swagger-petstore-open-api-3-1-0-planner.md"
+  ]
+}
